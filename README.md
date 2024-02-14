@@ -11,3 +11,13 @@ The following libraries are required for this code to run properly:
 * matplotlib.pyplot
 * seaborn
 * graphviz
+
+# Data
+We are using data from the Census Bureau and the path from the github link. Exact path: "https://github.com/ArinB/MSBA-CA-03-Decision-Trees/blob/master/census_data.csv?raw=true" 
+We programmatically created our Training and Testing datasets as separate dataframes based on the column value.
+
+# Acknowledgements 
+Instructions on how to implement the GraphViz library: https://scikit-learn.org/stable/modules/generated/sklearn.tree.export_graphviz.html
+
+# How to Run 
+Open the CA03_DecisionTree.ipynb file in a text editor that can run Python 3.11.1
